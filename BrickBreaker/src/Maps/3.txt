@@ -1,0 +1,10 @@
+abcdeedcba
+bcde  edcb
+cde    edc
+de      ed
+e        e
+e        e
+de      ed
+cde    edc
+bcde  edcb
+abcdeecdba
